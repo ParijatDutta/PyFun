@@ -1,0 +1,1 @@
+The i485Schedule python code checks the USCIS website for the processing times for I-485 filings for "Family" type applications, and arranges the results by the latest filing date first
